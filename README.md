@@ -449,6 +449,6 @@ Deep dives: [MAST Taxonomy (14 modes)](resources/failure-modes/mast-taxonomy.md)
 
 ## License
 
-*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+*Licensed under [MIT License](LICENSE)*
 
 *Last updated: May 2026*
